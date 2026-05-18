@@ -114,3 +114,8 @@ body {
 .target {
     margin-top: 40px;
 }
+
+.rating h1 {
+    font-size: 50px;
+    color: rgb(166, 166, 205);
+}

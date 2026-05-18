@@ -7,6 +7,7 @@ function StarRating (props) {
     
     return (
         <div className="rating">
+            <h1>Rate us</h1>
             <div className="stars">
                 {arr.map((order) => (
                     <Star 
